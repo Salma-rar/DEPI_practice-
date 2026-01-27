@@ -1,7 +1,6 @@
 # DEPI_practice-
 For practicing Git and GitHub
-
-Welcome  ya fal7en
+#Welcome  ya fal7en
  #   علشان نرفع الفايلات او فولدرات التاسكات هنعمل ايه؟ 
  1- علشان تخلي الريبو ده عندك علي الكوبيوتر وتعدل وترفع براحتك هنكتب الكوماند ده  في المكان الي عايز الفريبو يكون عندك فيه علي الجهاز  في  c  او  D    ايا يكن 
  # بكتب دهه   git clone https://github.com/Salma-rar/DEPI_practice-.git
