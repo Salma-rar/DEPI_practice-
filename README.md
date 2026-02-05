@@ -12,3 +12,5 @@ For practicing Git and GitHub
  # // git commit -m " DONE "
  5- علشان ترفع  بقي الكلام ده كلو بنكتب ده 
  # // git push origin main
+
+# // git pull origin main --rebase    هنكنب الامر ده كل مره هنفتح الكوماند نرفع فايلات جديده علشان لو في حد رفع قبلك حاجه تظهر عندك علي الجهاز وما يحصلش كونفليكت 
